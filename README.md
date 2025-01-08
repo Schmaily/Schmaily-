@@ -11,6 +11,6 @@
 
 ###
 
-<img align="right" height="300" src="https://i0.wp.com/www.gibizilla.com.br/wp-content/uploads/2023/01/This_Is_Fine_01.jpg?w=1630&ssl=1"  />
+<img align="center" height="300" src="https://i0.wp.com/www.gibizilla.com.br/wp-content/uploads/2023/01/This_Is_Fine_01.jpg?w=1630&ssl=1"  />
 
 ###
