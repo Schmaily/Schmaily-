@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es Schmaily, actualmente estudio Python y mi meta es ser programador.<br><br>Hola</h2>
+<h2 align="left">Hola 👋! Mi nombre es Schmaily, actualmente estudio Python y mi meta es ser programador.</h2>
 
 ###
 
